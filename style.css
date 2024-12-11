@@ -30,6 +30,8 @@ img {
     overflow: hidden;
 }
 
+
+
 .btn{
     text-decoration: none;
     font-size: 1.3rem;
@@ -57,9 +59,12 @@ img {
     background-color: var(--primary-color);
     color: #fff;
     padding: 0rem 3rem;
-    display: flex;
     position: fixed;
+    display: flex;
+   
     justify-content: flex-end;
+   
+   
     width: 100vw;
 }
 
@@ -82,7 +87,7 @@ img {
    background-color: rgb(253, 6, 47);
 }
 
-#bout .container {
+#about .container {
     height: 100%;
     display: flex;
     flex-direction: column;
